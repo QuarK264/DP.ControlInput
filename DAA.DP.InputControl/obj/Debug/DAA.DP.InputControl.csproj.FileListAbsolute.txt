@@ -4,3 +4,9 @@ C:\Users\1\Documents\2 курс 3 семестр - Шаблонное прогр
 C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.InputControl\DAA.DP.InputControl\obj\Debug\DAA.DP.InputControl.csprojResolveAssemblyReference.cache
 C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.InputControl\DAA.DP.InputControl\obj\Debug\DAA.DP.InputControl.exe
 C:\Users\1\Documents\2 курс 3 семестр - Шаблонное программирование\DAA.DP.InputControl\DAA.DP.InputControl\obj\Debug\DAA.DP.InputControl.pdb
+C:\Users\1\Documents\DP.ControlInput\DAA.DP.InputControl\bin\Debug\DAA.DP.InputControl.exe.config
+C:\Users\1\Documents\DP.ControlInput\DAA.DP.InputControl\bin\Debug\DAA.DP.InputControl.exe
+C:\Users\1\Documents\DP.ControlInput\DAA.DP.InputControl\bin\Debug\DAA.DP.InputControl.pdb
+C:\Users\1\Documents\DP.ControlInput\DAA.DP.InputControl\obj\Debug\DAA.DP.InputControl.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\DP.ControlInput\DAA.DP.InputControl\obj\Debug\DAA.DP.InputControl.exe
+C:\Users\1\Documents\DP.ControlInput\DAA.DP.InputControl\obj\Debug\DAA.DP.InputControl.pdb
